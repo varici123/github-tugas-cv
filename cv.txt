@@ -1,0 +1,4 @@
+"Ini adalah file CV"
+1. hokben
+2. starbuck
+3. kingstar
